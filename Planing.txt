@@ -5,3 +5,4 @@ tambahkan moto hidup
 tambahkan kontent
 didalam kontent terdapat : judul mapel, daftar isi,materi,judul semester,rangkuman,catatan,hasil karya.
 galeri
+menghubungkan dengan beberapa link seperti link wordpres dll
