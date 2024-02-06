@@ -4,3 +4,4 @@ tambahkan kalender
 tambahkan moto hidup
 tambahkan logo
 tambahkan kontent
+didalam kontent terdapat : judul mapel, daftar isi,materi,judul semester,rangkuman,catatan,hasil karya.
