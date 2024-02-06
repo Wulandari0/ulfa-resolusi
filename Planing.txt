@@ -3,3 +3,4 @@ judul
 tambahkan kalender
 tambahkan moto hidup
 tambahkan logo
+tambahkan kontent
