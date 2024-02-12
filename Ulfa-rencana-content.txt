@@ -4,6 +4,7 @@ Rencana Kontent Ulfa
 * E56
 *frameworks javascript
 ^ viue
+^ react
 -struktur data dasar
 -php frameworks
 ^ laravel
