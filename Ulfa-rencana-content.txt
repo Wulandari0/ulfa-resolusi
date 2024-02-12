@@ -3,7 +3,9 @@ Rencana Kontent Ulfa
 -javascript
 * E56
 *frameworks javascript
--struktur data dasar
+^ angular
+^react
 -php frameworks
+^ laravel
 -interview
 -vlogs
